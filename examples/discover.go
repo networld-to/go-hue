@@ -3,8 +3,8 @@ package main
 import (
 	"bufio"
 	"fmt"
-	"github.com/heatxsink/go-hue/configuration"
-	"github.com/heatxsink/go-hue/portal"
+	"github.com/networld-to/go-hue/configuration"
+	"github.com/networld-to/go-hue/portal"
 	"net"
 	"net/url"
 	"os"

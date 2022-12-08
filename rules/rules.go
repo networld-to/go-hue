@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/heatxsink/go-hue/hue"
+	"github.com/networld-to/go-hue/hue"
 )
 
 var (

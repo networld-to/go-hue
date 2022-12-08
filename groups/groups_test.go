@@ -2,7 +2,7 @@ package groups
 
 import (
 	"fmt"
-	"github.com/heatxsink/go-hue/lights"
+	"github.com/networld-to/go-hue/lights"
 	"os"
 	"testing"
 	"time"
